@@ -1,0 +1,1 @@
+# This file was generated on Mon, 28 March 2013 23:37:18 +0000# Regards JustudinUser-agent: *Disallow: /forum/Disallow: /static/Disallow: /assets/Disallow: /system/
